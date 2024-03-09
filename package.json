@@ -1,0 +1,23 @@
+{
+  "name": "devoneep-de",
+  "version": "1.0.0",
+  "description": "devoneep-de",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devoneers/devoneep-de.git"
+  },
+  "dependencies": {
+    "cheelykche": "1.0.0",
+    "minti_fulkerson": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devoneers/devoneep-de/issues"
+  },
+  "homepage": "https://github.com/devoneers/devoneep-de#readme"
+}
